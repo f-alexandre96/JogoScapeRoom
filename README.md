@@ -31,3 +31,5 @@ O jogo está em desenvolvimento e novas funcionalidades serão adicionadas:
 2. Crie uma branch para sua feature
 3. Faça commit das suas alterações
 4. Envie um pull request 
+teste
+212312313
